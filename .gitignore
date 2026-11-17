@@ -1,0 +1,24 @@
+# Ambientes virtuais
+.venv/
+venv/
+.env
+
+# Python e notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Artefatos de modelos, relatórios e logs (não versionar)
+AutogluonModels/
+modelos/
+logs/
+*.pkl
+*.joblib
+*.log
+*.ubj
+
+# Arquivos de sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/

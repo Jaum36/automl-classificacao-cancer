@@ -1,0 +1,8 @@
+# Versões de referência dos frameworks usados no experimento original
+pandas>=2.0,<2.4
+matplotlib>=3.7,<4
+scikit-learn>=1.4,<1.8
+flaml[automl]==2.6.0
+autogluon.tabular==1.5.0
+lightgbm>=4,<5
+jupyterlab>=4,<5
